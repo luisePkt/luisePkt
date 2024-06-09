@@ -4,7 +4,8 @@
 I am a web developer and graphic designer.
 
 
----------------------------------------------
+--------------------------
+
 <p align="left">
 </p>
 
