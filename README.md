@@ -1,7 +1,10 @@
-# Welcome to my github profile
+# Welcome to my github profile 👋 
+
 
 I am a web developer and graphic designer.
 
+
+---------------------------------------------
 <p align="left">
 </p>
 
