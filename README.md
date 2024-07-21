@@ -2,8 +2,7 @@
 
 
 I am a graphic designer who is getting in the field of web development and always interested in learning new things.
-
----
+<br>
 
 <p align="left">
 </p>
