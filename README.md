@@ -1,7 +1,7 @@
 # Welcome to my github profile 👋 
 
 
-I am a graphic designer who is getting in the field of web development and always interested in learning new things.
+I am a graphic designer who is getting in the field of SAP & web development and always interested in learning new things.
 <br>
 
 <details>
